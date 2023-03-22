@@ -7,5 +7,4 @@
 //     console.log(b);
 // }
 // myFn();
-// console.log(b);
-// console.log(a);
+
