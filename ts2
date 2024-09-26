@@ -1,0 +1,16 @@
+
+
+// function printMyName() {
+//     console.log('sasha');
+//     console.log(2 + 3) 
+// }
+// setTimeout(printMyName, 3000) 
+
+// const a = ('donna');
+// function myFn() {
+//     function innerFn() {
+//         console.log(a);
+//     }
+//     innerFn();
+// }
+// myFn();
